@@ -54,3 +54,5 @@ IntelliJ IDEA: The IDE used for writing, compiling, and running the Java code.
 
 
     ##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/afa83763-6633-4ce4-96d3-1fa1e68449c0)
